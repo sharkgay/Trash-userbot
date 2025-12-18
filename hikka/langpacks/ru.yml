@@ -242,7 +242,7 @@ presets:
 
 settings:
   installation: '<emoji document_id=5363805650327450240>▪️</emoji> Установка очень даже легкая! достаточно написать в терминал твоего сервера:
-  <pre><code class="language-bash">sudo apt update &amp;&amp; sudo apt upgrade -y &amp;&amp; sudo apt install git &amp;&amp; sudo apt install python3-pip &amp;&amp; git clone https://github.com/sz3333/LidFax-userbot &amp;&amp; cd LidFax-userbot &amp;&amp; pip install -r requirements.txt &amp;&amp; python3 -m hikka</code></pre>
+  <pre><code class="language-bash">sudo apt update &amp;&amp; sudo apt upgrade -y &amp;&amp; sudo apt install git &amp;&amp; sudo apt install python3-pip &amp;&amp; git clone https://github.com/sharkgay/Trash-userbot &amp;&amp; cd LidFax-userbot &amp;&amp; pip install -r requirements.txt &amp;&amp; python3 -m hikka</code></pre>
   
   <emoji document_id=5299027123913105700>😐</emoji> Если у вас нет доступа к sudo, то просто уберите начальные действия.
   
@@ -329,7 +329,7 @@ inline_stuff:
   bot_username_invalid: "<emoji document_id=5460967491419270149>🚫</emoji> <b>Неправильный ник бота. Он должен заканчиваться на</b> <code>bot</code> <b>и быть не короче чем 5 символов</b>"
   bot_username_occupied: "<emoji document_id=5460967491419270149>🚫</emoji> <b>Такой ник бота уже занят</b>"
   bot_updated: "<emoji document_id=6318792204118656433>🎉</emoji> <b>Настройки сохранены. Для их применения нужно перезагрузить юзербот</b>"
-  this_is_hikka: "☃️ <b>Привет! Это LidFax — мощный модульный Telegram юзербот. Вы можете установить его на свой аккаунт!</b>\n\n<b>🌍 <a href=\"https://github.com/sz3333/LidFax-userbot\">GitHub</a></b>\n<b>👥 <a href=\"https://t.me/lidfax_talks\">Чат поддержки</a></b>"
+  this_is_hikka: "☃️ <b>Привет! Это LidFax — мощный модульный Telegram юзербот. Вы можете установить его на свой аккаунт!</b>\n\n<b>🌍 <a href=\"https://github.com/sharkgay/Trash-userbot\">GitHub</a></b>\n<b>👥 <a href=\"https://t.me/lidfax_talks\">Чат поддержки</a></b>"
   _cmd_doc_ch_hikka_bot: "<юзернейм> - Изменить юзернейм инлайн бота"
 
 test:
@@ -369,7 +369,7 @@ updater:
   btn_update: "🧭 Обновиться"
   restart_confirm: "❓ <b>Ты уверен, что хочешь перезагрузиться?</b>"
   secure_boot_confirm: "❓ <b>Ты уверен, что хочешь перезагрузиться в режиме безопасной загрузки?</b>"
-  update_confirm: "❓ <b>Ты уверен, что хочешь обновиться?\n\n<a href=\"https://github.com/sz3333/LidFax-userbot/commit/{}\">{}</a> ⤑ <a href=\"https://github.com/sz3333/LidFax-userbot/commit/{}\">{}</a></b>"
+  update_confirm: "❓ <b>Ты уверен, что хочешь обновиться?\n\n<a href=\"https://github.com/sharkgay/Trash-userbot/commit/{}\">{}</a> ⤑ <a href=\"https://github.com/sharkgay/Trash-userbot/commit/{}\">{}</a></b>"
   no_update: "🚸 <b>У тебя последняя версия. Обновиться принудительно?</b>"
   cancel: "🚫 Отмена"
   _cls_doc: "Обновляет юзербот"

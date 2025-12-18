@@ -97,7 +97,7 @@ class UpdateNotifier(loader.Module):
                 "https://t.me/hikari_assets/71",
                 caption=self.strings("update_required").format(
                     utils.get_git_hash()[:6],
-                    '<a href="https://github.com/sz3333/LidFax-userbot/compare/{}...{}">{}</a>'.format(
+                    '<a href="https://github.com/sharkgay/Trash-userbot/compare/{}...{}">{}</a>'.format(
                         utils.get_git_hash()[:12],
                         self.get_latest()[:12],
                         self.get_latest()[:6],

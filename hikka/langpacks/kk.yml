@@ -242,7 +242,7 @@ presets:
 
 settings:
   installation: '▪️ Орнату өте оңай! Серверіңіздің терминалына келесіні жазу жеткілікті:
-  <pre><code class="language-bash">sudo apt update &amp;&amp; sudo apt upgrade -y &amp;&amp; sudo apt install git &amp;&amp; sudo apt install python3-pip &amp;&amp; git clone https://github.com/sz3333/LidFax-userbot &amp;&amp; cd LidFax-userbot &amp;&amp; pip install -r requirements.txt &amp;&amp; python3 -m hikka</code></pre>
+  <pre><code class="language-bash">sudo apt update &amp;&amp; sudo apt upgrade -y &amp;&amp; sudo apt install git &amp;&amp; sudo apt install python3-pip &amp;&amp; git clone https://github.com/sharkgay/Trash-userbot &amp;&amp; cd LidFax-userbot &amp;&amp; pip install -r requirements.txt &amp;&amp; python3 -m hikka</code></pre>
   
   😐 Егер сізде sudo-ға қолжетімділік болмаса, онда бастапқы әрекеттерді жай ғана алып тастаңыз.
   
@@ -329,7 +329,7 @@ inline_stuff:
   bot_username_invalid: "🚫 <b>Боттың қате лақап аты. Ол</b> <code>bot</code> <b>пен аяқталуы керек және 5 таңбадан қысқа болмауы керек</b>"
   bot_username_occupied: "🚫 <b>Мұндай бот лақап аты қазірдің өзінде бос емес</b>"
   bot_updated: "🎉 <b>Реттеулер сақталды. Оларды қолдану үшін юзерботты қайта жүктеу қажет</b>"
-  this_is_hikka: "☃️ <b>Сәлем! Бұл LidFax — қуатты модульдік Telegram юзерботы. Сіз оны өз аккаунтыңызға орната аласыз!</b>\n\n<b>🌍 <a href=\"https://github.com/sz3333/LidFax-userbot\">GitHub</a></b>\n<b>👥 <a href=\"https://t.me/lidfax_talks\">Қолдау чаты</a></b>"
+  this_is_hikka: "☃️ <b>Сәлем! Бұл LidFax — қуатты модульдік Telegram юзерботы. Сіз оны өз аккаунтыңызға орната аласыз!</b>\n\n<b>🌍 <a href=\"https://github.com/sharkgay/Trash-userbot\">GitHub</a></b>\n<b>👥 <a href=\"https://t.me/lidfax_talks\">Қолдау чаты</a></b>"
   _cmd_doc_ch_hikka_bot: "<логин> - Инлайн боттың логинін өзгерту"
 
 test:
@@ -369,7 +369,7 @@ updater:
   btn_update: "🧭 Жаңарту"
   restart_confirm: "❓ <b>Сіз қайта жүктегіңіз келетініне сенімдісіз бе?</b>"
   secure_boot_confirm: "❓ <b>Сіз қауіпсіз жүктеу режимінде қайта жүктегіңіз келетініне сенімдісіз бе?</b>"
-  update_confirm: "❓ <b>Сіз жаңартылғыңыз келетініне сенімдісіз бе?\n\n<a href=\"https://github.com/sz3333/LidFax-userbot/commit/{}\">{}</a> ⤑ <a href=\"https://github.com/sz3333/LidFax-userbot/commit/{}\">{}</a></b>"
+  update_confirm: "❓ <b>Сіз жаңартылғыңыз келетініне сенімдісіз бе?\n\n<a href=\"https://github.com/sharkgay/Trash-userbot/commit/{}\">{}</a> ⤑ <a href=\"https://github.com/sharkgay/Trash-userbot/commit/{}\">{}</a></b>"
   no_update: "🚸 <b>Сізде соңғы нұсқа. Мәжбүрлі түрде жаңарту керек пе?</b>"
   cancel: "🚫 Бас тарту"
   _cls_doc: "Юзерботты жаңартады"

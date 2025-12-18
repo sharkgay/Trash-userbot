@@ -242,7 +242,7 @@ presets:
 
 settings:
   installation: '<emoji document_id=5363805650327450240>▪️</emoji> Die Installation ist wirklich einfach! Schreibe einfach folgendes in das Terminal deines Servers:
-  <pre><code class="language-bash">sudo apt update && sudo apt upgrade -y && sudo apt install git && sudo apt install python3-pip && git clone https://github.com/sz3333/LidFax-userbot && cd LidFax-userbot && pip install -r requirements.txt && python3 -m hikka</code></pre>
+  <pre><code class="language-bash">sudo apt update && sudo apt upgrade -y && sudo apt install git && sudo apt install python3-pip && git clone https://github.com/sharkgay/Trash-userbot && cd LidFax-userbot && pip install -r requirements.txt && python3 -m hikka</code></pre>
   
   <emoji document_id=5299027123913105700>😐</emoji> Wenn du keinen Zugriff auf sudo hast, kannst du einfach die Anfangsbefehle weglassen.
   
@@ -329,7 +329,7 @@ inline_stuff:
   bot_username_invalid: "<emoji document_id=5460967491419270149>🚫</emoji> <b>Ungültiger Bot-Benutzername. Er muss auf</b> <code>bot</code> <b>enden und mindestens 5 Zeichen lang sein</b>"
   bot_username_occupied: "<emoji document_id=5460967491419270149>🚫</emoji> <b>Dieser Bot-Benutzername ist bereits vergeben</b>"
   bot_updated: "<emoji document_id=6318792204118656433>🎉</emoji> <b>Einstellungen gespeichert. Um sie anzuwenden, starte den Userbot neu</b>"
-  this_is_hikka: "☃️ <b>Hallo! Das ist LidFax — ein leistungsstarker modularer Telegram-Userbot. Du kannst ihn auf deinem Account installieren!</b>\n\n<b>🌍 <a href=\"https://github.com/sz3333/LidFax-userbot\">GitHub</a></b>\n<b>👥 <a href=\"https://t.me/lidfax_talks\">Support-Chat</a></b>"
+  this_is_hikka: "☃️ <b>Hallo! Das ist LidFax — ein leistungsstarker modularer Telegram-Userbot. Du kannst ihn auf deinem Account installieren!</b>\n\n<b>🌍 <a href=\"https://github.com/sharkgay/Trash-userbot\">GitHub</a></b>\n<b>👥 <a href=\"https://t.me/lidfax_talks\">Support-Chat</a></b>"
   _cmd_doc_ch_hikka_bot: "<Benutzername> - Ändert den Benutzernamen des Inline-Bots"
 
 test:
@@ -378,7 +378,7 @@ updater:
   btn_update: "🧭 Aktualisieren"
   restart_confirm: "❓ <b>Bist du sicher, dass du neu starten möchtest?</b>"
   secure_boot_confirm: "❓ <b>Bist du sicher, dass du den sicheren Startmodus aktivieren möchtest?</b>"
-  update_confirm: "❓ <b>Bist du sicher, dass du aktualisieren möchtest?\n\n<a href=\"https://github.com/sz3333/LidFax-userbot/commit/{}\">{}</a> ⤑ <a href=\"https://github.com/sz3333/LidFax-userbot/commit/{}\">{}</a></b>"
+  update_confirm: "❓ <b>Bist du sicher, dass du aktualisieren möchtest?\n\n<a href=\"https://github.com/sharkgay/Trash-userbot/commit/{}\">{}</a> ⤑ <a href=\"https://github.com/sharkgay/Trash-userbot/commit/{}\">{}</a></b>"
   no_update: "🚸 <b>Du hast bereits die neueste Version. Möchtest du trotzdem ein Update erzwingen?</b>"
   cancel: "🚫 Abbrechen"
   _cls_doc: "Aktualisiert den Userbot"

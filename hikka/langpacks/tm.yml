@@ -640,7 +640,7 @@ inline_stuff:
     hasabyňyza guraň!</b>
 
 
-    <b>🌍 <a href="https://github.com/sz3333/LidFax-userbot">GitHub</a></b>'
+    <b>🌍 <a href="https://github.com/sharkgay/Trash-userbot">GitHub</a></b>'
   _cmd_doc_ch_lidfax_bot: <ulanyjy_ad> - LidFax inline botyň ulanyjy adyny üýtget
   _cls_doc: Inline zatlara goldaw berýär
 test:
@@ -731,7 +731,7 @@ updater:
   update_confirm: '❓ <b>Täzelenmek isleýärsiňizmi?
 
 
-    <a href="https://github.com/sz3333/LidFax-userbot/commit/{}">{}</a> ⤑ <a href="https://github.com/sz3333/LidFax-userbot/commit/{...}'
+    <a href="https://github.com/sharkgay/Trash-userbot/commit/{}">{}</a> ⤑ <a href="https://github.com/sharkgay/Trash-userbot/commit/{...}'
   no_update: 🚸 <b>Iň täze wersiýada, täzelenmeleri çekmek isleýärsiňizmi?</b>
   cancel: 🚫 Yza
   lavhost_update: <emoji document_id=5469986291380657759>✌️</emoji> <b>Seniň {} täzelenýär...</b>

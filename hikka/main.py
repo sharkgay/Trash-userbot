@@ -849,7 +849,7 @@ class Hikka:
                 "https://raw.githubusercontent.com/sz3333/ftg/master/LidFax.png",
                 caption=(
                     "☃️ <b>LidFax {} started!</b>\n\n⚙ <b>GitHub commit SHA: <a"
-                    ' href="https://github.com/sz3333/LidFax-userbot/commit/{}">{}</a></b>\n🔎'
+                    ' href="https://github.com/sharkgay/Trash-userbot/commit/{}">{}</a></b>\n🔎'
                     " <b>Update status: {}</b>\n<b>🫆Prefix:</b> {}\n<b>{}</b>".format(
                         ".".join(list(map(str, list(__version__)))),
                         build,
